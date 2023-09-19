@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osmanonurkoc&label=Profile%20views&color=0e75b6&style=flat" alt="osmanonurkoc" /> </p>
 <trophy>
-  [![trophy](https://github-profile-trophy.vercel.app/?username=osmanonurkoc&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy#gh-dark-mode-only)
-  [![trophy](https://github-profile-trophy.vercel.app/?username=osmanonurkoc)](https://github.com/ryo-ma/github-profile-trophy#gh-light-mode-only)
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=osmanonurkoc&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=osmanonurkoc)](https://github.com/ryo-ma/github-profile-trophy">
 </trophy>
 <p align="left"> <a href="https://twitter.com/osmanonurkoc" target="blank"><img src="https://img.shields.io/twitter/follow/osmanonurkoc?logo=twitter&style=for-the-badge" alt="osmanonurkoc" /></a> </p>
 
