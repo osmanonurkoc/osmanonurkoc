@@ -3,13 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osmanonurkoc&label=Profile%20views&color=0e75b6&style=flat" alt="osmanonurkoc" /> </p>
 <a href="https://github.com/osmanonurkoc#gh-light-mode-only">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=osmanonurkoc&theme=flat)](https://github.com/ryo-ma/github-profile-trophy#gh-light-mode-only" alt="osmanonurkoc" />
+  <img align="left" src="https://github-profile-trophy.vercel.app/?username=osmanonurkoc&no-frame=true&column=-1&theme=flat#gh-light-mode-only)](https://github.com/ryo-ma/github-profile-trophy" alt="osmanonurkoc" />
 </a>
 
 <a href="https://github.com/osmanonurkoc#gh-dark-mode-only">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=osmanonurkoc&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy#gh-dark-mode-only" alt="osmanonurkoc" />
+  <img align="left" src="https://github-profile-trophy.vercel.app/?username=osmanonurkoc&no-frame=true&column=-1&theme=dracula#gh-dark-mode-only)](https://github.com/ryo-ma/github-profile-trophy" alt="osmanonurkoc" />
 </a>
-<p align="left"> <a href="https://twitter.com/osmanonurkoc" target="blank"><img src="https://img.shields.io/twitter/follow/osmanonurkoc?logo=twitter&style=for-the-badge" alt="osmanonurkoc" /></a> </p>
+
+<br><br><br><br><br>
+<h3 align="left">About me:</h3>
 
 - 🔭 I’m currently working on [Lavien Icon Family](https://play.google.com/store/apps/dev?id=5929107625348829633)
 
