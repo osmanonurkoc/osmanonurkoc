@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Osman Onur KOÇ</h1>
+<h1 align="center">Hello World! I'm Osman Onur KOÇ</h1>
 <h3 align="center">A big fan of Linux and Android.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osmanonurkoc&label=Profile%20views&color=0e75b6&style=flat" alt="osmanonurkoc" /> </p>
