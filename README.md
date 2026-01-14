@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osmanonurkoc&label=Profile%20views&color=0e75b6&style=flat" alt="osmanonurkoc" /> </p>
 <a href="https://github.com/osmanonurkoc#gh-light-mode-only">
-  <img align="left" src="https://github-profile-trophy.vercel.app/?username=osmanonurkoc&no-frame=true&column=-1&theme=flat#gh-light-mode-only)]([https://github.com/ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)" alt="osmanonurkoc" />
+  <img align="left" src="https://github-profile-trophy.vercel.app/?username=osmanonurkoc&no-frame=true&column=-1&theme=flat#gh-light-mode-only)](https://github.com/ryo-ma/github-profile-trophy" alt="osmanonurkoc" />
 </a>
 
 <a href="https://github.com/osmanonurkoc#gh-dark-mode-only">
-  <img align="left" src="https://github-profile-trophy.vercel.app/?username=osmanonurkoc&no-frame=true&column=-1&theme=dracula#gh-dark-mode-only)]([https://github.com/ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)" alt="osmanonurkoc" />
+  <img align="left" src="https://github-profile-trophy.vercel.app/?username=osmanonurkoc&no-frame=true&column=-1&theme=dracula#gh-dark-mode-only)](https://github.com/ryo-ma/github-profile-trophy" alt="osmanonurkoc" />
 </a>
 
 <br><br><br><br><br>
