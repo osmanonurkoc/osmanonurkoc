@@ -28,20 +28,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://github.com/PapirusDevelopmentTeam/papirus_icons/blob/master/src/system_android.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://github.com/PapirusDevelopmentTeam/papirus_icons/blob/master/src/apps_terminal.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/PapirusDevelopmentTeam/papirus_icons/blob/master/src/apps_figma.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/blob/master/Papirus/48x48/apps/git.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/blob/master/Papirus/48x48/apps/AdobeIllustrator.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/kotlin.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/PapirusDevelopmentTeam/papirus_icons/blob/master/src/apps_anlinux.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.perl.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/blob/master/Papirus/48x48/mimetypes/application-x-perl.svg" alt="perl" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/blob/master/Papirus/48x48/apps/AdobePhotoshop.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/PapirusDevelopmentTeam/papirus_icons/blob/master/src/apps_python.svg" alt="python" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/blob/master/Papirus/48x48/apps/ue4editor.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/blob/master/Papirus/48x48/apps/AdobeXD.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-<a href="https://github.com/osmanonurkoc#gh-light-mode-only">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=osmanonurkoc&show_icons=true&hide_border=true&locale=en&layout=compact&theme=flat#gh-light-mode-only" alt="osmanonurkoc" />
-</a>
-
-<a href="https://github.com/osmanonurkoc#gh-dark-mode-only">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=osmanonurkoc&show_icons=true&hide_border=true&locale=en&layout=compact&theme=dracula#gh-dark-mode-only" alt="osmanonurkoc" />
-</a>
-<a href="https://github.com/osmanonurkoc#gh-light-mode-only">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=osmanonurkoc&show_icons=true&hide_border=true&theme=flat#gh-light-mode-only" alt="Tropy" />
-</a>
-
-<a href="https://github.com/osmanonurkoc#gh-dark-mode-only">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=osmanonurkoc&show_icons=true&hide_border=true&theme=dracula#gh-dark-mode-only" alt="Tropy" />
-</a>
 </br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/osmanonurkoc/osmanonurkoc/output/github-contribution-grid-snake-dark.svg">
