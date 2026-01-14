@@ -1,7 +1,7 @@
 <h1 align="center">Hello World! I'm Osman Onur KOÇ</h1>
 <h3 align="center">A big fan of Linux and Android.</h3>
 
-<br><br><br><br><br>
+<br>
 <h3 align="left">About me:</h3>
 
 - 🔭 I’m currently working on [Lavien Icon Family](https://play.google.com/store/apps/dev?id=5929107625348829633)
