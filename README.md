@@ -37,10 +37,10 @@
     <img src="https://img.icons8.com/?size=512&id=62397&format=png" alt="solidworks" width="40" height="40"/>
   </a>
   <a href="https://www.autodesk.com/products/fusion-360/overview" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Fusion_360_Circle_Mono.svg" alt="fusion360" width="40" height="40"/>
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/autodesk-fusion-360-icon.svg" alt="fusion360" width="40" height="40"/>
   </a>
   <a href="https://meshmixer.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Autodesk_MeshMixer_Logo.png/480px-Autodesk_MeshMixer_Logo.png" alt="meshmixer" width="40" height="40"/>
+    <img src="https://images.squarespace-cdn.com/content/v1/5320bccee4b045629856f4fe/a63c03ad-2c4b-45d7-9a0c-de3cada04062/meshmixer.png?format=40w" alt="meshmixer" width="40" height="40"/>
   </a>
   <a href="https://unrealengine.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/blob/master/Papirus/48x48/apps/ue4editor.svg?raw=true" alt="unreal" width="40" height="40"/>
