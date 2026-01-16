@@ -34,7 +34,7 @@
     <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/autocad-icon.svg" alt="autocad" width="40" height="40"/>
   </a>
   <a href="https://www.solidworks.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Solidworks-logo.svg" alt="solidworks" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=512&id=62397&format=png" alt="solidworks" width="40" height="40"/>
   </a>
   <a href="https://www.autodesk.com/products/fusion-360/overview" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Fusion_360_Circle_Mono.svg" alt="fusion360" width="40" height="40"/>
