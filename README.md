@@ -14,7 +14,7 @@
 
 - 🎁 Support me [Google Pay](https://play.google.com/store/apps/details?id=osmanonurkoc.donate)
 
-- 💬 Ask me about **Shell scripting and Android UI design**
+- 💬 Ask me about **Shell scripting, PowerShell automation and Android UI design**
 
 - 📫 How to reach me **osmanonurkoc@gmail.com**
 
@@ -22,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/osmanonurkoc" target="blank"><img align="center" src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus_icons/master/src/apps_twitter.svg" alt="osmanonurkoc" height="40" width="40" /></a> <a href="https://t.me/osmanonurkoc" target="blank"><img align="center" src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus_icons/master/src/apps_telegram.svg" alt="osmanonurkoc" height="40" width="40" /></a> <a href="https://www.instagram.com/osmanonurkoc/" target="blank"><img align="center" src="https://github.com/PapirusDevelopmentTeam/papirus_icons/blob/master/src/apps_instagram.svg" alt="osmanonurkoc" height="40" width="40" /></a> <a href="https://www.deviantart.com/osmanonurkoc/" target="blank"><img align="center" src="https://github.com/PapirusDevelopmentTeam/papirus_icons/blob/master/src/apps_deviantart.svg" alt="osmanonurkoc" height="40" width="40" /></a> <a href="https://spotify.link/VkPCwYdBeDb" target="blank"><img align="center" src="https://github.com/PapirusDevelopmentTeam/papirus_icons/blob/master/src/apps_spotify_client.svg" alt="osmanonurkoc" height="40" width="40" /></a>
+<a href="https://www.osmanonurkoc.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/refs/heads/master/Papirus/48x48/apps/internet-web-browser.svg" alt="osmanonurkoc" height="40" width="40" /></a> <a href="https://twitter.com/osmanonurkoc" target="blank"><img align="center" src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus_icons/master/src/apps_twitter.svg" alt="osmanonurkoc" height="40" width="40" /></a> <a href="https://t.me/osmanonurkoc" target="blank"><img align="center" src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus_icons/master/src/apps_telegram.svg" alt="osmanonurkoc" height="40" width="40" /></a> <a href="https://www.instagram.com/osmanonurkoc/" target="blank"><img align="center" src="https://github.com/PapirusDevelopmentTeam/papirus_icons/blob/master/src/apps_instagram.svg" alt="osmanonurkoc" height="40" width="40" /></a> <a href="https://www.deviantart.com/osmanonurkoc/" target="blank"><img align="center" src="https://github.com/PapirusDevelopmentTeam/papirus_icons/blob/master/src/apps_deviantart.svg" alt="osmanonurkoc" height="40" width="40" /></a> <a href="https://spotify.link/VkPCwYdBeDb" target="blank"><img align="center" src="https://github.com/PapirusDevelopmentTeam/papirus_icons/blob/master/src/apps_spotify_client.svg" alt="osmanonurkoc" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
