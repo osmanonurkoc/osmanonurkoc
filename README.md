@@ -31,7 +31,7 @@
     <img src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/refs/heads/master/Papirus/48x48/apps/blender.svg" alt="blender" width="40" height="40"/>
   </a>
   <a href="https://www.autodesk.com/products/autocad/overview" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Autocad_logo.svg" alt="autocad" width="40" height="40"/>
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/autocad-icon.svg" alt="autocad" width="40" height="40"/>
   </a>
   <a href="https://www.solidworks.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Solidworks-logo.svg" alt="solidworks" width="40" height="40"/>
