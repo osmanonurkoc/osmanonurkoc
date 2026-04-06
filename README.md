@@ -78,6 +78,9 @@
 <br>
 
 <div align="center">
+  <p align="center" style="margin-bottom: 0px;">
+    <b>Contributions in the last year</b>
+  </p>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/osmanonurkoc/osmanonurkoc/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/osmanonurkoc/osmanonurkoc/output/github-contribution-grid-snake.svg">
